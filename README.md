@@ -9,8 +9,9 @@ Solidity v0.5.16 (solc-js)
 Node v14.18.1
 Web3.js v1.5.3
 ```
-
-Star Notary Token address on Rinkeby network: [**0x**3e75b2ddCC3c9F03506b2Bf270B9191b98a4bE05](https://rinkeby.etherscan.io/address/0x3e75b2ddCC3c9F03506b2Bf270B9191b98a4bE05)
+- ERC-721 Token Name: **Star Notary Token** *(default)*
+- ERC-721 Token Symbol: **STR** *(default)*
+- Star Notary Token address on Rinkeby network: [**0x**3e75b2ddCC3c9F03506b2Bf270B9191b98a4bE05](https://rinkeby.etherscan.io/address/0x3e75b2ddCC3c9F03506b2Bf270B9191b98a4bE05)
 
 ___
 
