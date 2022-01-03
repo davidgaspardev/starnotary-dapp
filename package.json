@@ -1,0 +1,18 @@
+{
+  "name": "star-notary",
+  "version": "1.0.0",
+  "description": "Star Notary is a DApp.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Gaspar",
+  "license": "ISC",
+  "dependencies": {
+    "openzeppelin-solidity": "2.3",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
